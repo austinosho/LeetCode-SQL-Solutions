@@ -1,5 +1,5 @@
 # Write your MySQL query statement below
-select v.customer_id, COUNT(*) as count_no_trans
+select v.customer_id, COUNT(v.visit_id) as count_no_trans
 from Visits as v
 LEFT JOIN Transactions as t
 ON v.visit_id = t.visit_id
