@@ -11,5 +11,7 @@ As part of my continuous learning and proficiency in SQL, I took on the challeng
 - String functions and regular expressions
 - Efficient use of SQL clauses
 
-Each problem solved has bolstered my ability to write optimized SQL queries and understand data structures in depth. Below is a highlight of my first SQL problem from this series.
+Each problem solved has bolstered my ability to write optimized SQL queries. 
+
+![image](https://github.com/austinosho/LeetCode-SQL-Solutions/blob/9ed28e95b2735d7e86f3dce194b583bb43077b13/Top_SQL_50.gif)
 
